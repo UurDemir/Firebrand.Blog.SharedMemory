@@ -1,0 +1,4 @@
+GET https://freecurrencyapi.net/api/v2/latest?apikey=APIKEY_currency=TRY
+Accept: application/json
+
+###
